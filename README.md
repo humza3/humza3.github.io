@@ -1,2 +1,2 @@
-# resume
-openclassroom project 2
+# interactive-portfolio
+Openclassrooms project 3
