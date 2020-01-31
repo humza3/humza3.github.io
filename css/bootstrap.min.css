@@ -4909,6 +4909,7 @@ input[type=submit].btn-block {
 }
 
 .navbar-light .navbar-nav .nav-link {
+	font-size: 20px;
     color: rgba(0, 0, 0, .5)
 }
 
