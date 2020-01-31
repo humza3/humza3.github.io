@@ -750,6 +750,11 @@ h4 {
 .avatar {
     box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.3);
 }
+.img-responsive {
+	display: block;
+    max-width: 100%;
+    height: auto;
+}
 
 .black-background {
     background-color: rgba(35, 31, 32, 0.7);
@@ -780,7 +785,7 @@ h4 {
 }
 
 .tc-white {
-    color: #364577!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
