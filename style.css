@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: rgba(255, 255, 255, 1);
 }
 
 .d-bloc .a-btn:hover,
@@ -582,7 +582,7 @@ a[data-lightbox]:hover img {
 .lightbox-caption {
     padding: 20px;
     color: #FFF;
-    background: rgba(0, 0, 0, .5);
+    background: rgba(0, 0, 0, 0.8);
     position: absolute;
     left: 15px;
     right: 15px;
@@ -638,7 +638,7 @@ a[data-lightbox]:hover img {
 
 .snapshot-lb .lightbox-caption {
     padding: 0;
-    color: rgba(0, 0, 0, .5);
+    color: rgba(0, 0, 0, 0.8);
     background: none;
 }
 
@@ -703,7 +703,7 @@ p {
 
 .social {
     max-width: 400px;
-	color: rgba(255, 255, 255, .6);	
+	color: rgba(255, 255, 255, 1);	
     margin: auto auto auto auto;
 }
 .social span{
@@ -792,7 +792,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #94360A;
 }
 
 .tc-white {
@@ -800,7 +800,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #94360A;
     color: #FFFFFF!important;
 }
 
@@ -818,7 +818,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: #94360A!important;
 }
 
 .ltc-atomic-tangerine:hover {
